@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Reproducible Research - Assignment 1
 
 #Assignment Description
@@ -110,18 +111,4 @@ xyplot(steps ~ interval | day_type, dailySteps, type = "l", layout = c(1, 2),
     xlab = "5-minute Interval", ylab = "# of steps")
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+This excercise was a good introduction into report writing as a data scientist. 
